@@ -34,4 +34,9 @@
 [11]: https://www.w3.org/TR/WebIDL/
 
 参考：  
-https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/JavaScript_technologies_overview 
+MDN: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/JavaScript_technologies_overview   
+[Brendan Eich的博客][12]. Brendan是JavaScript之父,他实现了SpiderMonkey JS引擎.目前仍参与ECMA工作组的工作,以改进这门语言。  
+[Dmitry Soshnikov's analysis of ECMA-262 Edition 3 and 5][13]
+
+[12]: https://brendaneich.com/
+[13]: http://dmitrysoshnikov.com/
