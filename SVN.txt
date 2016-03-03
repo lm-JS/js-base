@@ -1,0 +1,64 @@
+地址：svn://192.168.1.140/txabaili/trunk
+账号：liuzhentao
+密码：lzt.com
+
+root
+xabaili.123
+
+211.149.148.24
+develop
+QhK7tBcF
+24的fto
+
+24数据库 授权地址 http://101.200.172.199:10081/ 
+账号develop  密码  456@qwert
+http://www.xabaili.net:8012/xabaili.git
+http://www.xabaili.net:8012/xabaili.git
+liuzhentao  liu2514
+liu2514
+http://www.xabaili.net:8012/wapxabaili.git
+
+
+邮箱：whxlzt00
+
+ssh://git@git.xabaili.com:62222/xabaili.git
+ssh://git@git.xabaili.com:62222/wapxabaili.git
+ssh://git@git.xabaili.com:62222/phalapi.git
+
+合作店铺：com: xinsiwei/baililbs
+
+渠道运营商：net:liuqin/123456
+                ruilibaili/123456
+admin :net:admin/BaiLi1010
+       com:admin/BaiLi2016!@#
+
+coding:
+用户名：okerso
+密码：wuke191954
+
+
+
+email：
+putong:@qlzt921/597lzt921
+zhongji:$name+benhao4
+      $ljs4210 
+gaoji:$name+benhao4+zhenhao4
+     
+6wei:zhenhao4-1+kahao4-1
+     zhenhao3 + kahao3
+    
+
+Lzhentao0121
+421121
+
+putong    zhentaoLiu921
+chaxun    13920102
+zhifu     4210
+
+zhifubao:lzt610624121
+
+6222022609001094206  
+
+
+
+4000 0208 1920 0535 461 
