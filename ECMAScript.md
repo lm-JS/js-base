@@ -10,4 +10,4 @@
 * 严格模式
 
 
-[0]：https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Language_Resources
+[1]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Language_Resources
