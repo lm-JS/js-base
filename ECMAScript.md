@@ -9,5 +9,8 @@
 * 内置对象和函数（JSON，Math，Array.prototype 方法，Object introspection 方法等）
 * 严格模式
 
+###浏览器支持
+> [这里][2]是一些关于ECMAScript 5的浏览器支持情况的资料。如今，主流浏览器的最新版本已经支持 ECMAScript 6 的大部分标准。
 
 [1]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Language_Resources
+[2]：http://kangax.github.io/compat-table/es5/(es5浏览器支持)
