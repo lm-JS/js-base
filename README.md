@@ -1,5 +1,4 @@
 # js-base
-javascript 基本概念理解
 
 ###javascript 概述
 > 如果从浏览器的范畴去理解“JavaScript”这个术语，它包含了截然不同的两个方面。一个是JavaScript的核心语言（[ECMAScript][0]），另一个是[DOM][1]（文档对象模型）。  
@@ -33,3 +32,6 @@ javascript 基本概念理解
 [9]: https://html.spec.whatwg.org/multipage//comms.html#network
 [10]: https://html.spec.whatwg.org/multipage/scripting.html#2dcontext
 [11]: https://www.w3.org/TR/WebIDL/
+
+参考：  
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/JavaScript_technologies_overview 
