@@ -5,6 +5,7 @@
 > * [DOM核心][1]中定义了文档结构，树模型，以及DOM事件架构，包括：Node， Element， DocumentFragment， Document， DOMImplementation， Event， EventTarget等。
 * [DOM事件][2]中包括DOM事件架构不太严格的定义以及一些特殊事件。
 * [DOM 元素遍历][3] 以及 DOM Range 对象等其它内容。
+
 从ECMAScript的角度来看，DOM规范中定义的对象被称作“宿主对象”。
 
 [1]: https://dom.spec.whatwg.org/
