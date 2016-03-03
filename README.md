@@ -12,11 +12,11 @@ javascript 基本概念理解
 
 ###其他值得关注的API
 * HTML标准中Window接口首次对setTimeout和setInterval函数进行定义。
-* XMLHttpRequest. 用来发起异步HTTP请求的API。
-* CSS 对象模型 用于将CSS规则抽象成对象。
-* WebWorkers. 是用来并行计算的API。
-* WebSockets. 是用来实现双向Socket通信的API。
-* Canvas 2D Context. canvas元素的绘图API。
+* [XMLHttpRequest][6]. 用来发起异步HTTP请求的API。
+* [CSS][7] 对象模型 用于将CSS规则抽象成对象。
+* [WebWorkers][8]. 是用来并行计算的API。
+* [WebSockets][9]. 是用来实现双向Socket通信的API。
+* [Canvas 2D Context][9]. canvas元素的绘图API。
 
 [0]: /lm-JS/js-base/blob/master/ECMAScript.md
 [1]: /lm-JS/js-base/blob/master/DOM.md
@@ -24,6 +24,8 @@ javascript 基本概念理解
 [3]: https://developer.mozilla.org/zh-CN/docs/Web/API/document
 [4]: https://developer.mozilla.org/zh-CN/docs/Web/API/Window
 [5]: https://developer.mozilla.org/zh-CN/docs/Web/API/Document_Object_Model
-[6]: 
-[6]: 
-[6]: 
+[6]: https://dvcs.w3.org/hg/xhr/raw-file/tip/Overview.html
+[7]: http://dev.w3.org/csswg/cssom/
+[8]: http://www.whatwg.org/specs/web-workers/current-work/
+[9]: https://html.spec.whatwg.org/multipage//comms.html#network
+[10]: https://html.spec.whatwg.org/multipage/scripting.html#2dcontext
